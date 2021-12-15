@@ -1,0 +1,322 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+img{
+  position: absolute;
+}
+
+.p1turtle{
+  position: absolute;
+  left: 117px;
+  top: 288px;
+  opacity: 0;
+  transition: opacity 4s ease:
+}
+
+.p1turtle:hover{
+  opacity: 1;
+  transition: 4s;
+}
+
+.p1text{
+  left: 262px;
+  top: 118px;
+}
+
+.p2moon2{
+  left: -229px;
+  top: 18px;
+}
+
+.p2jfish1{
+  left: -39px;
+  top: 47px;
+}
+
+.p2jfish2{
+  left: 636px;
+  top: 190px;
+}
+
+.p2saturn{
+  left: 565px;
+  top: 0px;
+}
+
+.p2type{
+  left: 100px;
+  top: 275px;
+  opacity: 0;
+}
+
+.p2type:hover{
+  opacity:1;
+  transition: 3s;
+}
+
+audio{
+    padding-left: 350px;
+    opacity: 0.1;
+}
+
+audio:hover{
+    opacity: 1;
+    transition: 2s;
+}
+
+.p3text{
+  left: 48px;
+  top: 326px;
+  opacity: 0;
+}
+
+.p3text:hover{
+  opacity: 1;
+  transition: 3s;
+}
+
+.p3swan{
+  left: 598px;
+  top: 436px;
+}
+
+.p3owl{
+  left: 194px;
+  top: 62px;
+}
+
+.p3castle{
+  left: 741px;
+  top: 199px;
+}
+
+.p3flamingo{
+  left: 0px;
+  top: 257px;
+}
+
+.p3birds{
+  left: 559px;
+  top: 51px;
+}
+
+.p4sun{
+  left: 50px;
+  top: 175px;
+}
+
+.p4dolphin{
+  left: 276px;
+  top: 330px;
+}
+
+.p4shark{
+  left: 728px;
+  top: 526px;
+}
+
+.p4shark2{
+  left: 84px;
+  top: 462px;
+}
+
+.p4shark3{
+  left: 477px;
+  top: 460px;
+}
+
+.p4whale{
+  left: 551px;
+  top: 256px;
+}
+
+.p4text{
+  left: 28px;
+  top: 26px;
+  opacity: 0;
+}
+
+.p4text:hover{
+  opacity: 1;
+  transition: 3s;
+}
+
+.p5tl{
+  left: 0px;
+  top: 0px;
+}
+
+.p5tr{
+  left: 435px;
+  top: 0px;
+}
+
+.p5br{
+  left: 435px;
+  top: 298px;
+}
+
+.p5bl{
+  left: 0px;
+  top: 298px;
+}
+
+.p5text{
+  left: 260px;
+  top: 41px;
+  opacity: 0;
+}
+
+.p5text:hover{
+  opacity: 1;
+  transition: 3s;
+}
+
+.p6moon{
+  left: 20px;
+  top: 19px;
+}
+
+.p6moon:hover{
+  opacity:0;
+}
+
+.p6saturn{
+  left: 293px;
+  top: 118px;
+}
+
+.p6saturn:hover{
+  opacity: 0;
+}
+
+.p6mountain{
+  left: 0px;
+  top: 217px;
+}
+
+.p6mountain:hover{
+  opacity: 0;
+}
+
+.p6tulip{
+  left: 289px;
+  top: 151px;
+}
+
+.p6tulip:hover{
+  opacity: 0;
+}
+
+.p6tree2{
+  left: 402px;
+  top: 203px;
+}
+
+.p6tree2:hover{
+  opacity: 0;
+}
+
+.p6tree{
+  left: 0px;
+  top: 0px;
+}
+
+.p6tree:hover{
+  opacity: 0;
+}
+
+.p6jfish{
+  left: 392px;
+  top: 0px;
+}
+
+.p6jfish:hover{
+  opacity: 0;
+}
+
+.p6bubble{
+  left: 638px;
+  top: 0px;
+}
+
+.p6bubble:hover{
+  opacity: 0;
+}
+
+.p6peony{
+  left: 0px;
+  top: 121px;
+}
+
+.p6peony:hover{
+  opacity: 0;
+}
+
+.p6butterfly{
+  left: 566px;
+  top: 40px;
+}
+
+.p6butterfly:hover{
+  opacity: 0;
+}
+
+.p6turtle2{
+  left: 0px;
+  top: 98px;
+}
+
+.p6turtle2:hover{
+  opacity: 0;
+}
+
+.p6clouds{
+  left: 0px;
+  top: 138px;
+}
+
+.p6clouds:hover{
+  opacity: 0;
+}
+
+.p6turtle{
+  left: 528px;
+  top: 370px;
+}
+
+.p6turtle:hover{
+  opacity: 0;
+}
+
+.p6bird{
+  left: 109px;
+  top: 377px;
+}
+
+.p6bird:hover{
+  opacity: 0;
+}
+
+.p6composition{
+  opacity: 1;
+}
+
+.composition:hover{
+  opacity: 0;
+  transition: 5s;
+  transition-delay: 5s;
+}
+
+.p6button{
+  left: 357px;
+  top: 235px;
+  opacity: 0;
+}
+
+.p6button:hover{
+  opacity: 1;
+  transition-delay: 10s;
+}
